@@ -1,5 +1,7 @@
 # Snake Game
 ![Snake - Game](https://github.com/akinsiraifedayo/snake-game/assets/60388460/e92812c8-2f43-49f6-9dd9-f1e0ee5ac22a)
+
+## Tutorial
 I wrote a complete [Blog](https://ifedayo.hashnode.dev/create-your-own-snake-game-in-python-a-15-minute-coding-adventure) post on hw to build this.
 ## Table of Contents
 
